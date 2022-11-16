@@ -1,0 +1,35 @@
+---
+import SiteLayout from "../../layouts/SiteLayout.astro";
+import Card from "../../components/Card.astro";
+
+const posts = (await Astro.glob('./*.md')).sort(
+  (a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf()
+);
+const { page } = Astro.props;
+---
+
+<SiteLayout>
+  <main>
+    <h2>Various Writings</h2>
+    Lovingly arranged by date in descending order.
+    <div class="listofposts">
+      <ul>
+        {posts.map((post) => (
+        <Card
+            title={post.frontmatter.title}
+            body={post.frontmatter.description}
+            href={post.url}
+          /><br/>
+        ))}
+      </ul>
+    </div>
+  </main>
+</SiteLayout>
+
+<style>
+  .listofposts {
+    margin: auto;
+		padding: 1.5rem;
+		max-width: 60ch;
+  }
+</style>

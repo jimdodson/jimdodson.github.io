@@ -1,0 +1,39 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+const { frontmatter } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <Header title="James Dodson" />
+    <div class="post">
+		<h6>{frontmatter.pubDate}</h6>
+        <h1>{frontmatter.title}</h1>
+        <slot />
+	</div>
+    <Footer />
+  </body>
+</html>
+
+<style>
+	:root {
+		--accent: 124, 58, 237;
+		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #684b4b 30%, white 60%);
+	}
+	html {
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		background-color: #abcdef;
+	}
+    .post {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 90ch;
+        background-color: white;
+	}
+</style>
