@@ -31,6 +31,10 @@ pubDate: "January 2023"
 ## Selected Professional Experience 
 ###### Employer - Client - Timeframe
 
+**Ocelot Consulting - Financial Client** - February 2023 to Present
+
+> Java, Spring Boot, GCP
+
 **Object Partners Inc/Improving - Centene** - August 2019 to November 2021
 
 > Greenfield development of a system of microservices to process and manage enterprise event streams. 
