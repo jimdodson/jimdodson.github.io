@@ -9,7 +9,7 @@ pubDate: "January 2023"
 
 ## Summary
 
-> Senior Software Engineer with expertise in Java and JVM-related technologies, focused primarily on back-end services development - Java, Spring, Kafka, API
+> Senior Software Engineer with expertise in Java and JVM-related technologies, focused primarily on back-end services development - Java, Spring, Kafka, API, microservices
 
 > Contributes analysis, design, architecture, and development skills to agile software development teams. 
 
@@ -31,9 +31,9 @@ pubDate: "January 2023"
 ## Selected Professional Experience 
 ###### Employer - Client - Timeframe
 
-**Ocelot Consulting - Financial Client** - February 2023 to Present
+**Ocelot Consulting - Financial Client** - February 2023 to June 2023
 
-> Java, Spring Boot, GCP
+> Java, Spring Boot, GCP (datastore, dataflow), Apache Beam
 
 **Object Partners Inc/Improving - Centene** - August 2019 to November 2021
 
