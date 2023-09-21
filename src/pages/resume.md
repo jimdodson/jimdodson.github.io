@@ -37,7 +37,7 @@ pubDate: "January 2023"
 Node/Express/OpenAPI component serving React front end.
 Established CICD pipelines in Jenkins for on-prem builds and deploys.
 
-> Node, React, Excel plugin, SQL Server, Docker, Jenkins
+> Node, React, Excel add-in, SQL Server, Docker, Jenkins
 
 **Ocelot Consulting - Equifax** - February 2023 to June 2023
 
