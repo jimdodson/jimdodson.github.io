@@ -15,7 +15,7 @@ pubDate: "January 2023"
 
 > Broad experience in defense, finance, insurance and commercial industries.
 
-> Past clients include: United States Department of Defense, Union Pacific, TD Ameritrade, Mutual of Omaha, Confluent, Centene, Maersk
+> Past clients include: United States Department of Defense, Union Pacific, TD Ameritrade, Mutual of Omaha, Confluent, Centene, Maersk, Equifax
 
 
 ## Education
@@ -31,7 +31,17 @@ pubDate: "January 2023"
 ## Selected Professional Experience 
 ###### Employer - Client - Timeframe
 
-**Ocelot Consulting - Financial Client** - February 2023 to June 2023
+**Ocelot Consulting - Insurance Client** - June 2023 to Present
+
+> Greenfield development of a system to manage financial data for Investments business. 
+Node/Express/OpenAPI component serving React front end.
+Established CICD pipelines in Jenkins for on-prem builds and deploys.
+
+> Node, React, Excel plugin, SQL Server, Docker, Jenkins
+
+**Ocelot Consulting - Equifax** - February 2023 to June 2023
+
+> Microservices development for validation services products.
 
 > Java, Spring Boot, GCP (datastore, dataflow), Apache Beam
 
@@ -60,7 +70,7 @@ Helped mentor Centene staff in Apache Kafka.
 
 > Member of Innovation OpenShift team building a ground-up implementation of an in-memory data grid system to 
 relieve query pressure on a legacy RDBMS and enable contemporary analytics capabilities. Database change events 
-flow in real time across Kinesis streams into Apache Ignite; continuous queries invoke cascading compute tasks 
+flow in near real time across Kinesis streams into Apache Ignite; continuous queries invoke cascading compute tasks 
 asynchronously to implement business logic. Helped mentor Avantas staff in Apache Ignite architecture and development.
 
 > Groovy, Spring Boot, Apache Ignite
