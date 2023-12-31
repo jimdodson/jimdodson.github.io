@@ -2,18 +2,16 @@
 layout: "../layouts/ResumeLayout.astro"
 title: "James Dodson"
 description: ""
-pubDate: "January 2023"
+pubDate: "January 2024"
 ---
 
 [linkedIn](https://www.linkedin.com/in/jamesdodson/)
 
 ## Summary
 
-> Senior Software Engineer with expertise in Java and JVM-related technologies, focused primarily on back-end services development - Java, Spring, Kafka, API, microservices
+> Software Engineer with expertise in Java and JVM-related technologies, focused primarily on back-end services development - Java, Spring, API, microservices
 
 > Contributes analysis, design, architecture, and development skills to agile software development teams. 
-
-> Broad experience in defense, finance, insurance and commercial industries.
 
 > Past clients include: United States Department of Defense, Union Pacific, TD Ameritrade, Mutual of Omaha, Confluent, Centene, Maersk, Equifax
 
@@ -24,20 +22,20 @@ pubDate: "January 2023"
 
 ## Certifications
 
-> Confluent Certified Developer for Apache Kafka
+> Confluent Certified Developer for Apache Kafka - expired December 2023
 
 > Sun Certified Java Programmer
 
 ## Selected Professional Experience 
 ###### Employer - Client - Timeframe
 
-**Ocelot Consulting - Insurance Client** - June 2023 to Present
+**Ocelot Consulting / Accenture - Insurance Client** - June 2023 to Present
 
 > Greenfield development of a system to manage financial data for Investments business. 
 Node/Express/OpenAPI component serving React front end.
 Established CICD pipelines in Jenkins for on-prem builds and deploys.
 
-> Node, React, Excel add-in, SQL Server, Docker, Jenkins
+> Node, React, Excel add-in, SQL Server, Docker, Jenkins, Bloomberg API
 
 **Ocelot Consulting - Equifax** - February 2023 to June 2023
 
@@ -45,7 +43,7 @@ Established CICD pipelines in Jenkins for on-prem builds and deploys.
 
 > Java, Spring Boot, GCP (datastore, dataflow), Apache Beam
 
-**Object Partners Inc/Improving - Centene** - August 2019 to November 2021
+**Object Partners Inc / Improving - Centene** - August 2019 to November 2021
 
 > Greenfield development of a system of microservices to process and manage enterprise event streams. 
 Configurable event routing, multi-environment promotion, self service portal, system wide workflow, 
