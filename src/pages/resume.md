@@ -2,7 +2,7 @@
 layout: "../layouts/ResumeLayout.astro"
 title: "James Dodson"
 description: ""
-pubDate: "January 2024"
+pubDate: "July 2025"
 ---
 
 [linkedIn](https://www.linkedin.com/in/jamesdodson/)
@@ -29,13 +29,19 @@ pubDate: "January 2024"
 ## Selected Professional Experience 
 ###### Employer - Client - Timeframe
 
-**Ocelot Consulting / Accenture - Insurance Client** - June 2023 to Present
+**Accenture - TIAA** - March 2025 to June 2025
+
+> Design phase for enterprise eventing transformation.
+
+> Confluent Cloud, Mercury Composable framework
+
+**Ocelot Consulting / Accenture - RGA** - June 2023 to May 2024
 
 > Greenfield development of a system to manage financial data for Investments business. 
 Node/Express/OpenAPI component serving React front end.
-Established CICD pipelines in Jenkins for on-prem builds and deploys.
+Established CICD pipelines in Jenkins for on-prem builds and deploys. Built out Bloomberg Data License API integration.
 
-> Node, React, Excel add-in, SQL Server, Docker, Jenkins, Bloomberg API
+> Node, React, Excel add-in, SQL Server, Docker, Jenkins, Bloomberg Data License API
 
 **Ocelot Consulting - Equifax** - February 2023 to June 2023
 
@@ -66,7 +72,7 @@ Helped mentor Centene staff in Apache Kafka.
 
 **Object Partners Inc - Avantas** - April 2018 to December 2018
 
-> Member of Innovation OpenShift team building a ground-up implementation of an in-memory data grid system to 
+> Member of team building a ground-up implementation of an in-memory data grid system to 
 relieve query pressure on a legacy RDBMS and enable contemporary analytics capabilities. Database change events 
 flow in near real time across Kinesis streams into Apache Ignite; continuous queries invoke cascading compute tasks 
 asynchronously to implement business logic. Helped mentor Avantas staff in Apache Ignite architecture and development.
