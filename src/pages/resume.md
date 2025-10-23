@@ -2,7 +2,7 @@
 layout: "../layouts/ResumeLayout.astro"
 title: "James Dodson"
 description: ""
-pubDate: "September 2025"
+pubDate: "October 2025"
 ---
 
 [linkedIn](https://www.linkedin.com/in/jamesdodson/)
@@ -25,7 +25,9 @@ pubDate: "September 2025"
 
 **DevObsessed - Current Client** - September 2025 to Present
 
-> Java integration and modernization
+> Post-acquisition integration with acquiring company products and platforms.
+
+> Java, Groovy, Spring Boot, NodeJs, React, Oracle, AWS
 
 **Accenture - TIAA** - March 2025 to June 2025
 
